@@ -1,4 +1,4 @@
-* Problem in edu.pro.Main
+* Problem in edu.pro.MainToRefactor
 * Solution in edu.pro.analyzer
 
 1. Remove unused imports
